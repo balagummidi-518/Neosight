@@ -1,6 +1,5 @@
 streamlit
-opencv-python
-ultralytics
-pyttsx3
-SpeechRecognition
-pyaudio
+opencv-python-headless
+numpy
+pandas
+Pillow
